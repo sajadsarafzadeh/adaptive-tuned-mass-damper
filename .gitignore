@@ -1,0 +1,11 @@
+# MATLAB and Simulink generated files
+*.asv
+*.slxc
+slprj/
+codegen/
+*.mex*
+.MATLABDriveTag
+**/.MATLABDriveTag
+# Operating system files
+.DS_Store
+Thumbs.db
