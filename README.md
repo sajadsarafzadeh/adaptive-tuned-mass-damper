@@ -61,8 +61,7 @@ adaptive-tuned-mass-damper/
 |   `-- reported-circle-fit.csv
 `-- docs/
     |-- project-report.pdf
-    |-- REPRODUCIBILITY.md
-    `-- FILE_SELECTION.md
+    `-- REPRODUCIBILITY.md
 ```
 
 ## Run the analysis
@@ -100,4 +99,4 @@ MATLAB, Simulink, experimental dynamics, vibration testing, FFT-based spectral a
 
 ## Documentation and attribution
 
-See the [original presentation](docs/project-report.pdf), [file-selection rationale](docs/FILE_SELECTION.md), and [reproducibility review](docs/REPRODUCIBILITY.md). All included source code and data are copied without modification. Visuals are rendered from the original presentation and are not newly measured results. Original authorship and third-party rights remain applicable; no open-source licence has been assigned in this draft.
+See the [original presentation](docs/project-report.pdf) and [reproducibility review](docs/REPRODUCIBILITY.md). All included source code and data are copied without modification. Visuals are rendered from the original presentation and are not newly measured results. Original authorship and third-party rights remain applicable; no open-source licence has been assigned in this draft.
